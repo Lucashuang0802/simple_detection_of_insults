@@ -9,7 +9,7 @@
 - [GraphLab Create](https://turi.com/)
 
 # A positive example
-1. Issue `cd /positive-example` command in ***Terminal*** to go to the `positive-example` folder
+1. Issue `cd /src` command in ***Terminal*** to go to the `positive-example` folder (It is a submodule that links to my friend's repo)
 2. See the result and check two things:
     - cross validation accuracy
     - test data accuracy
